@@ -1,7 +1,7 @@
 Clone the repository with the following command:
 
 ```bash
-clone this repository 
+git clone https://github.com/achyuth-kumar/PyCray.git 
 ```
 
 Run in terminal this command:
